@@ -1,0 +1,191 @@
+object Form1: TForm1
+  Left = 330
+  Height = 414
+  Top = 306
+  Width = 411
+  Caption = 'Form1'
+  ClientHeight = 414
+  ClientWidth = 411
+  Color = clWhite
+  LCLVersion = '2.2.6.0'
+  object Label1: TLabel
+    Left = 29
+    Height = 1
+    Top = 335
+    Width = 1
+    Color = clDefault
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -19
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+    Transparent = False
+  end
+  object Edit1: TEdit
+    Left = 29
+    Height = 35
+    Top = 13
+    Width = 360
+    AutoSize = False
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -19
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 29
+    Height = 35
+    Top = 48
+    Width = 360
+    AutoSize = False
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -19
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Button1: TButton
+    Left = 29
+    Height = 56
+    Top = 104
+    Width = 56
+    Caption = '+'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -19
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    OnClick = Button1Click
+    ParentFont = False
+    TabOrder = 2
+  end
+  object Button2: TButton
+    Left = 105
+    Height = 56
+    Top = 104
+    Width = 56
+    Caption = '-'
+    OnClick = Button2Click
+    TabOrder = 3
+  end
+  object Button3: TButton
+    Left = 181
+    Height = 56
+    Top = 104
+    Width = 56
+    Caption = '/'
+    OnClick = Button3Click
+    TabOrder = 4
+  end
+  object Button4: TButton
+    Left = 257
+    Height = 56
+    Top = 104
+    Width = 56
+    Caption = '.'
+    OnClick = Button4Click
+    TabOrder = 5
+  end
+  object Button5: TButton
+    Left = 333
+    Height = 56
+    Top = 104
+    Width = 56
+    Caption = 'C'
+    OnClick = Button5Click
+    TabOrder = 6
+  end
+  object Button6: TButton
+    Left = 29
+    Height = 56
+    Top = 181
+    Width = 56
+    Caption = '√'
+    OnClick = Button6Click
+    TabOrder = 7
+  end
+  object Button7: TButton
+    Left = 105
+    Height = 56
+    Top = 181
+    Width = 56
+    Caption = 'x²'
+    OnClick = Button7Click
+    TabOrder = 8
+  end
+  object Button8: TButton
+    Left = 181
+    Height = 56
+    Top = 181
+    Width = 56
+    Caption = 'x³'
+    OnClick = Button8Click
+    TabOrder = 9
+  end
+  object Button9: TButton
+    Left = 257
+    Height = 56
+    Top = 181
+    Width = 56
+    Caption = '1/x '
+    OnClick = Button9Click
+    TabOrder = 10
+  end
+  object Button10: TButton
+    Left = 333
+    Height = 56
+    Top = 181
+    Width = 56
+    Caption = 'CE'
+    OnClick = Button10Click
+    TabOrder = 11
+  end
+  object Button11: TButton
+    Left = 29
+    Height = 56
+    Top = 258
+    Width = 56
+    Caption = 'MC'
+    OnClick = Button11Click
+    TabOrder = 12
+  end
+  object Button12: TButton
+    Left = 105
+    Height = 56
+    Top = 258
+    Width = 56
+    Caption = 'MR'
+    OnClick = Button12Click
+    TabOrder = 13
+  end
+  object Button13: TButton
+    Left = 181
+    Height = 56
+    Top = 258
+    Width = 56
+    Caption = 'M+'
+    OnClick = Button13Click
+    TabOrder = 14
+  end
+  object Button14: TButton
+    Left = 257
+    Height = 56
+    Top = 258
+    Width = 56
+    Caption = 'M-'
+    OnClick = Button14Click
+    TabOrder = 15
+  end
+  object Button15: TButton
+    Left = 333
+    Height = 56
+    Top = 258
+    Width = 56
+    Caption = 'MS'
+    OnClick = Button15Click
+    TabOrder = 16
+  end
+end
