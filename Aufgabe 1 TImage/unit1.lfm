@@ -1,0 +1,53 @@
+object Form1: TForm1
+  Left = 124
+  Height = 691
+  Top = 148
+  Width = 1074
+  Caption = 'Form1'
+  ClientHeight = 691
+  ClientWidth = 1074
+  LCLVersion = '4.2.0.0'
+  OnCreate = FormCreate
+  object Image1: TImage
+    Left = 0
+    Height = 496
+    Top = 0
+    Width = 1070
+  end
+  object Button1: TButton
+    Left = 16
+    Height = 112
+    Top = 496
+    Width = 171
+    Caption = 'zurück'
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Left = 464
+    Height = 112
+    Top = 496
+    Width = 171
+    Caption = 'Dia-Show starten'
+    TabOrder = 1
+    OnClick = Button2Click
+  end
+  object Button3: TButton
+    Left = 832
+    Height = 112
+    Top = 496
+    Width = 171
+    Caption = 'weiter'
+    TabOrder = 2
+    OnClick = Button3Click
+  end
+  object Button4: TButton
+    Left = 464
+    Height = 28
+    Top = 608
+    Width = 171
+    Caption = 'Dia-Show beenden'
+    TabOrder = 3
+    OnClick = Button4Click
+  end
+end

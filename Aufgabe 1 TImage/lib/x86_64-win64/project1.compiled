@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1525895209"/>
+  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq &quot;-FiG:\A23 TE 1\07 Softwareergonomie\8. Image\8. Image lös\Aufgabe 1 TImage\lib\x86_64-win64&quot; &quot;-FuG:\A23 TE 1\07 Softwareergonomie\8. Image\8. Image lös\Aufgabe 1 TImage\&quot; -FuC:\Lazarus\lcl\units\x86_64-win64\win32 -FuC:\Lazarus\lcl\units\x86_64-win64 -FuC:\Lazarus\components\freetype\lib\x86_64-win64 -FuC:\Lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Lazarus\packager\units\x86_64-win64 &quot;-FUG:\A23 TE 1\07 Softwareergonomie\8. Image\8. Image lös\Aufgabe 1 TImage\lib\x86_64-win64\&quot; &quot;-FEG:\A23 TE 1\07 Softwareergonomie\8. Image\8. Image lös\Aufgabe 1 TImage\&quot; &quot;-oG:\A23 TE 1\07 Softwareergonomie\8. Image\8. Image lös\Aufgabe 1 TImage\project1.exe&quot; -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>
