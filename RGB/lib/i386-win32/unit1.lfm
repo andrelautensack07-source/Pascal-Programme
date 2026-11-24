@@ -1,0 +1,21 @@
+object Form1: TForm1
+  Left = -11
+  Height = 255
+  Top = -4
+  Width = 255
+  Caption = 'Form1'
+  ClientHeight = 255
+  ClientWidth = 255
+  DesignTimePPI = 144
+  OnMouseMove = FormMouseMove
+  LCLVersion = '1.8.0.6'
+  object Button1: TButton
+    Left = 85
+    Height = 38
+    Top = 71
+    Width = 113
+    Caption = 'Button1'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+end
