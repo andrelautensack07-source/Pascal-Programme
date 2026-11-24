@@ -1,0 +1,40 @@
+object Form1: TForm1
+  Left = 256
+  Height = 305
+  Top = 145
+  Width = 343
+  Caption = 'Form1'
+  ClientHeight = 305
+  ClientWidth = 343
+  LCLVersion = '4.2.0.0'
+  OnCreate = FormCreate
+  object Image1: TImage
+    Left = 0
+    Height = 230
+    Top = 0
+    Width = 338
+  end
+  object Button1: TButton
+    Left = 0
+    Height = 32
+    Top = 240
+    Width = 338
+    Caption = 'Würfeln'
+    Font.CharSet = ANSI_CHARSET
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Left = 136
+    Height = 25
+    Top = 277
+    Width = 75
+    Caption = 'Button2'
+    TabOrder = 1
+    OnClick = Button2Click
+  end
+end
