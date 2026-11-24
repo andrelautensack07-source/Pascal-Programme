@@ -1,0 +1,3 @@
+Hans;pw_hans;0
+Marie;pw_marie;0
+Admin;pw_admin;1

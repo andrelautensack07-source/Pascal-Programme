@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1525895209"/>
+  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq &quot;-FiG:\A23 TE 1\02 Vererbung programmieren\Verwaltung Schüler\lib\x86_64-win64&quot; &quot;-FuG:\A23 TE 1\02 Vererbung programmieren\Verwaltung Schüler\&quot; -FuC:\Lazarus\lcl\units\x86_64-win64\win32 -FuC:\Lazarus\lcl\units\x86_64-win64 -FuC:\Lazarus\components\freetype\lib\x86_64-win64 -FuC:\Lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Lazarus\packager\units\x86_64-win64 &quot;-FUG:\A23 TE 1\02 Vererbung programmieren\Verwaltung Schüler\lib\x86_64-win64\&quot; &quot;-FEG:\A23 TE 1\02 Vererbung programmieren\Verwaltung Schüler\&quot; &quot;-oG:\A23 TE 1\02 Vererbung programmieren\Verwaltung Schüler\project1.exe&quot; -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>

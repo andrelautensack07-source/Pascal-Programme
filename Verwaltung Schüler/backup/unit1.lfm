@@ -1,0 +1,80 @@
+object Form1: TForm1
+  Left = 267
+  Height = 299
+  Top = 163
+  Width = 454
+  Caption = 'Verwaltung Schülernetz'
+  ClientHeight = 299
+  ClientWidth = 454
+  OnCreate = FormCreate
+  LCLVersion = '3.4.0.0'
+  object Label1: TLabel
+    Left = 77
+    Height = 21
+    Top = 41
+    Width = 50
+    Caption = 'Name:'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 77
+    Height = 21
+    Top = 83
+    Width = 72
+    Caption = 'Passwort:'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Edit1: TEdit
+    Left = 176
+    Height = 29
+    Top = 33
+    Width = 224
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    ParentShowHint = False
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 176
+    Height = 29
+    Top = 75
+    Width = 224
+    EchoMode = emPassword
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    ParentShowHint = False
+    PasswordChar = '*'
+    TabOrder = 1
+  end
+  object Button1: TButton
+    Left = 112
+    Height = 88
+    Top = 144
+    Width = 232
+    Caption = 'Anmelden '
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 2
+    OnClick = Button1Click
+  end
+end
