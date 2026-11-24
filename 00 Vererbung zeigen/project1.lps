@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="3" Y="14"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit2"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="unit3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit3"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="28" Y="35"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="unit4.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit4"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="22" Y="12"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="13" HistoryIndex="12">
+      <Position1>
+        <Filename Value="unit2.pas"/>
+        <Caret Line="18" Column="42"/>
+      </Position1>
+      <Position2>
+        <Filename Value="unit2.pas"/>
+        <Caret Line="19" Column="40"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unit3.pas"/>
+        <Caret Line="23" Column="41"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unit3.pas"/>
+        <Caret Line="33" Column="8" TopLine="11"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unit4.pas"/>
+        <Caret Line="18" Column="42"/>
+      </Position5>
+      <Position6>
+        <Filename Value="unit4.pas"/>
+        <Caret Line="11" Column="19"/>
+      </Position6>
+      <Position7>
+        <Filename Value="unit4.pas"/>
+        <Caret Line="16" Column="25"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unit4.pas"/>
+        <Caret Line="18" Column="7"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unit4.pas"/>
+        <Caret Line="25" Column="7"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unit4.pas"/>
+        <Caret Line="21" Column="13"/>
+      </Position10>
+      <Position11>
+        <Filename Value="unit4.pas"/>
+        <Caret Line="24" Column="22"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="8" Column="87"/>
+      </Position12>
+      <Position13>
+        <Filename Value="unit2.pas"/>
+        <Caret Line="15" Column="12"/>
+      </Position13>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="unit2.pas"/>
+        <Line Value="1"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
